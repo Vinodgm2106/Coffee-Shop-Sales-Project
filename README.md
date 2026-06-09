@@ -1,5 +1,20 @@
-# Coffee-Shop-Sales-Project
+# Coffee Shop Sales Analysis Dashboard
 
-This project aims to analyze coffee shop sales using Excel and Power Pivot to identify key trends, product performance, and customer behavior. It will track sales revenue, best-selling items, peak hours, and the impact of promotions to improve pricing and inventory management. Additionally, it will assess operational efficiency by analyzing stock turnover and staff performance to optimize business operations.  
+## Overview
+This project analyzes coffee shop sales data using Excel, Power Pivot, and Power BI to uncover sales trends, customer purchasing behavior, and product performance. Interactive dashboards and KPI reports were created to transform raw data into actionable business insights for decision-making.
 
-The outcome will be an interactive dashboard with charts and graphs for real-time insights. This will help refine marketing strategies, enhance customer engagement, and maximize profitability. Ultimately, the project will provide a data-driven approach to improving sales, efficiency, and long-term business success.
+## Tools & Technologies
+- Microsoft Excel
+- Power BI
+- Power Pivot
+- DAX
+- Pivot Tables
+- Data Visualization
+- Business Intelligence Reporting
+
+## Key Objectives
+- Analyze sales and revenue performance.
+- Identify top-selling products and categories.
+- Track monthly and daily sales trends.
+- Monitor business KPIs through dashboards.
+- Generate actionable insights for decision-making.
